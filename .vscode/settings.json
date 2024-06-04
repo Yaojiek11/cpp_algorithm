@@ -1,0 +1,10 @@
+{
+    "files.autoGuessEncoding": true,
+    "terminal.integrated.shellArgs.windows": [
+        "-NoExit",
+        "chcp 65001"
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
